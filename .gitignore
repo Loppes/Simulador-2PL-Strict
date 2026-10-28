@@ -1,0 +1,13 @@
+# Arquivos gerados pelo .NET
+**/bin/
+**/obj/
+artifacts/
+
+# Configurações locais do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Resultados de testes e captura da interface
+TestResults/
+preview-interface.png
